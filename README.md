@@ -1,4 +1,4 @@
-# Statistical Analysis
+# Statistical Analysis of Financial Data
 Code for Statistical Analysis Project
 
 In this project, we aim to analyze financial data using machine learning methods. 
